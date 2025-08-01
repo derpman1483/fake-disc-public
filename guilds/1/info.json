@@ -1,0 +1,14 @@
+{
+  "channels":{},
+  "members":{},
+  "owner":"id",
+  "roles":{
+    "id":{
+      "name":"str",
+      "members":[],
+      "color":"rgbval",
+      "perms":{},
+      "info":{}
+    }
+  },
+}
